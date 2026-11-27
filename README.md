@@ -1,6 +1,6 @@
 # Retail Cancellation Review
 
-Retail Cancellation Review helps retail operations analysts decide which products to investigate for unusually high cancellation workload. It uses historical transactions to build a weekly review queue of up to 20 SKUs and shows what happened after each ranking.
+Retail Cancellation Review helps retail operations analysts decide which products to investigate for high cancellation workload. It uses historical transactions to build a weekly review queue of up to 20 SKUs and shows what happened after each ranking.
 
 - **Review queue** shows each flagged SKU’s rank, recent activity, and observed cancellation count for completed weeks.
 - **Workload patterns** lets analysts explore weekly trends by market and identify the SKUs with the most cancellation documents.
